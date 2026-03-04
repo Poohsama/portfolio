@@ -12,6 +12,23 @@ EC運用の効率化を目的としたツール開発を行っています。
 - 作業ミスの削減
 - 深夜更新による売上機会ロスの削減
 
+### What I Built
+
+**HTML Converter**
+
+楽天商品ページHTMLを  
+Yahooショッピング / au PAYマーケット用HTMLへ変換
+
+**CSV Upload Automation**
+
+商品データCSVから  
+商品登録用データ・HTMLを自動生成
+
+**Rakuten CSV Scheduled Upload Workflow**
+
+商品更新CSVを深夜帯に予約アップロードする運用を構築  
+営業開始前の商品更新を実現し、売上機会ロスを削減
+
 ---
 
 ## Achievements
