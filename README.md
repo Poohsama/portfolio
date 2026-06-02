@@ -83,6 +83,9 @@ Excelテンプレートへの転記から親品番集計・SKU集計までを自
 ### Main Screen
 <img width="500" alt="gui画像" src="https://github.com/user-attachments/assets/362926b6-506c-4e4e-96ba-476450e2fc04" />
 
+※ アップロード対象や接続情報を含むため、実際のログ画面は掲載していません。
+実行結果やエラー内容を記録するログ機能を実装しています。
+
 ---
 
 ## 2. CSV Upload Scheduler (.NET + SFTP)
