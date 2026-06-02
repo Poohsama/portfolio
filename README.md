@@ -78,6 +78,11 @@ Excelテンプレートへの転記から親品番集計・SKU集計までを自
 * 集計作業の標準化
 * 属人化の解消
 
+## Screenshots
+
+### Main Screen
+<img width="1049" height="749" alt="gui" src="https://github.com/user-attachments/assets/362926b6-506c-4e4e-96ba-476450e2fc04" />
+
 ---
 
 ## 2. CSV Upload Scheduler (.NET + SFTP)
