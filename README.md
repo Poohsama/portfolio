@@ -81,7 +81,7 @@ Excelテンプレートへの転記から親品番集計・SKU集計までを自
 ## Screenshots
 
 ### Main Screen
-<img width="1049" height="749" alt="gui" src="https://github.com/user-attachments/assets/362926b6-506c-4e4e-96ba-476450e2fc04" />
+<img width="500" alt="gui画像" src="https://github.com/user-attachments/assets/362926b6-506c-4e4e-96ba-476450e2fc04" />
 
 ---
 
