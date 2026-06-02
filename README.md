@@ -81,6 +81,11 @@ Excelテンプレートへの転記から親品番集計・SKU集計までを自
 ## Screenshots
 
 ### Main Screen
+
+予約対象CSVの管理、
+実行スケジュール設定、
+アップロード対象確認を行うメイン画面。
+
 <img width="500" alt="gui画像" src="https://github.com/user-attachments/assets/362926b6-506c-4e4e-96ba-476450e2fc04" />
 
 ※ アップロード対象や接続情報を含むため、実際のログ画面は掲載していません。
